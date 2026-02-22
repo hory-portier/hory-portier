@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hory-portier
 - 👀 I’m interested in Japan
-- 🌱 I’m currently learning Angular and some related stuff and filling holes in my .NET basics
+- 🌱 I’m currently learning Project Management, and on the programming sice - Angular and some related stuff and filling holes in my .NET basics
 - 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me, I wonder...
 
